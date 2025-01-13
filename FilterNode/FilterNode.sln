@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterNode", "FilterNode.csproj", "{17D49484-F309-47F7-BC15-79CD7FC59347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterNodeFunctions", "..\FilterNodeFunctions\FilterNodeFunctions.csproj", "{8B69C77A-BE6C-4845-B9A9-238297E4705B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D49484-F309-47F7-BC15-79CD7FC59347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D49484-F309-47F7-BC15-79CD7FC59347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D49484-F309-47F7-BC15-79CD7FC59347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D49484-F309-47F7-BC15-79CD7FC59347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B69C77A-BE6C-4845-B9A9-238297E4705B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B69C77A-BE6C-4845-B9A9-238297E4705B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B69C77A-BE6C-4845-B9A9-238297E4705B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B69C77A-BE6C-4845-B9A9-238297E4705B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150281C1-8683-4279-8C61-AFA08D264EF3}
+	EndGlobalSection
+EndGlobal

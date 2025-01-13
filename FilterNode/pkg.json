@@ -1,0 +1,21 @@
+{
+  "license": "MIT",
+  "file_hash": null,
+  "name": "FilterNode",
+  "version": "1.0.0",
+  "description": "Filter node",
+  "group": "CustomNodes",
+  "keywords": [ "grid", "random" ],
+  "dependencies": [],
+  "contents": "Sample node",
+  "engine_version": "3.3.0",
+  "engine": "dynamo",
+  "engine_metadata": "",
+  "site_url": "",
+  "repository_url": "",
+  "contains_binaries": true,
+  "node_libraries": [
+    "FilterNode, Version=1.0.0, Culture=neutral, PublicKeyToken=null",
+    "FilterNodeFunctions, Version=1.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
